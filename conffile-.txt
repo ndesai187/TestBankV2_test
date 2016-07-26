@@ -1,0 +1,5 @@
+Hello! 4,
+Your loan , with reference 4, is issued from 4 branch for 4 year/years, with interest 4.0% and amount of 4.0/-
+Interest will be caluclated with 4 days a year basis.
+You have to pay 4.64 after 4 year/years
+Total trades booked : 1
